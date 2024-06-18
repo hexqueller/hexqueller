@@ -1,10 +1,10 @@
 # Hello, World! 🌍
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to code and create amazing projects. 🚀
+Welcome to my GitHub profile! I am someone who likes to program and create useful tools. 🚀
 
 ## About Me 🧑‍💻
 
-Im a student programmer, I'm actively exploring the realms of DevOps and SRE practices. I primarily focus on writing code in Python and Go, while continuously seeking to expand my skill set and stay up-to-date with the latest technologies
+Im a student programmer, I'm focus on exploring the realms of DevOps and SRE practices. Writing code in Python and Go, while continuously seeking to expand my skill set and stay up-to-date with the latest technologies
 
 ## My Projects 📂
 

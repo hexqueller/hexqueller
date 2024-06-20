@@ -39,10 +39,11 @@ If you want to get in touch with me, you can reach me through the following chan
 
 I am always open to contributions and collaborations. If you find any issues in my projects or want to contribute, feel free to open a pull request or create an issue. Let's build something great together!
 
+
 ## Stats 📊
-
-Here are some stats about my GitHub activity:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexqueller&show_icons=true&theme=radical)
+<p align="center">
+<a href="https://github.com/hexqueller"><img width="52%" align="center" src="https://github-readme-stats.vercel.app/api?username=hexqueller&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Hexqueller stats" /></a>
+<a href="https://github.com/hexqueller"><img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexqueller&layout=compact&theme=github_dark&hide_border=false" /></a>
+</p>
 
 Thank you for visiting my profile! Have a great day! 😊

@@ -17,7 +17,7 @@ Here are some of the skills I'm learning:
 | Basics 💎 | Git ✅ | Linux ✅ | Programming ✅ |
 | CI / CD ⚙️| Jenkins ✅ | Github Actions ✅ | Gitlab CI ✅ |
 | Containerization 📦| Docker ✅ | Kubernetes ✅ | HELM ✅ |
-| Iac 🚀 | AWS ❌ | Terraform ❌ | Ansible ✅ |
+| Iac 🚀 | AWS ❌ | Terraform ✅ | Ansible ✅ |
 | Monitoring 📊| Prometheus ✅ | Grafana ✅ | ELK ✅ |
 
 ## Contributions 🤝

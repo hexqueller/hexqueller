@@ -8,6 +8,7 @@ Here are some of the projects I have worked on:
 
 1. [GrafanaGrab](https://github.com/hexqueller/GrafanaGrab): Excelent  tool for creating backups of grafana graphic panels.
 2. [Script Exporter](https://github.com/hexqueller/Script-Exporter): A universal exporter written in GO
+3. [Shellix](https://github.com/hexqueller/Shellix): Telegram bot - interactive docker shell executor
 
 ## Skills 🛠
 Here are some of the skills I'm learning:

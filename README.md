@@ -1,13 +1,9 @@
 ## My Projects 🔂
-
-Here are some of the projects I have worked on:
-
 1. [GrafanaGrab](https://github.com/hexqueller/GrafanaGrab): Excellent tool for creating backups of Grafana graphic panels.
 2. [Script Exporter](https://github.com/hexqueller/Script-Exporter): Prometheus exporter for scripts.
 3. [Shellix](https://github.com/hexqueller/Shellix): Telegram bot - interactive Docker shell executor.
 
 ## Skills 🛠
-Some basic:
 
 |   |   |   |   |
 | --- | --- | --- | --- |
@@ -24,6 +20,14 @@ Some basic:
 | Apache Kafka ❌       | OpenTelemetry ❌  | Metrics Aggregation ❌  |
 | Hadoop / Spark ❌     | Loki ❌          | Custom Grafana Dashboards ✅ |
 | Presto / Trino ❌     | Elastic APM ❌   | Custom Prometheus Rules ❌ |
+
+## New Goals: DevSecOps 🔐
+
+| Automation of Security      | Vulnerability Management          | DevSecOps Practices          |
+|-----------------------------|-----------------------------------|------------------------------|
+| SAST (e.g., SonarQube) ❌     | Dependency Scanning (Snyk) ❌      | Security in CI/CD Pipelines ❌ |
+| DAST (e.g., ZAP) ❌           | Patch Management Automation ❌    | Shift Left Security ❌        |
+| Container Scanning (Trivy) ❌| Automated Vulnerability Audits ❌ | Integration of Policies ❌    |
 
 ## Stats 📈
 <p align="center">

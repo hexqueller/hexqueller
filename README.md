@@ -7,7 +7,7 @@ Here are some of the projects I have worked on:
 3. [Shellix](https://github.com/hexqueller/Shellix): Telegram bot - interactive Docker shell executor.
 
 ## Skills 🛠
-Here are some of the skills I'm learning:
+Some basic:
 
 |   |   |   |   |
 | --- | --- | --- | --- |

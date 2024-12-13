@@ -29,6 +29,10 @@
 | DAST (e.g., ZAP) ❌           | Patch Management Automation ❌    | Shift Left Security ❌        |
 | Container Scanning (Trivy) ❌| Automated Vulnerability Audits ❌ | Integration of Policies ❌    |
 
+### Abbreviation Explanations:
+- **SAST** (Static Application Security Testing): Tools that analyze source code to detect vulnerabilities.
+- **DAST** (Dynamic Application Security Testing): Tools that test running applications for vulnerabilities.
+
 ## Stats 📈
 <p align="center">
 <a href="https://github.com/hexqueller"><img width="52%" align="center" src="https://github-readme-stats.vercel.app/api?username=hexqueller&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Hexqueller stats" /></a>

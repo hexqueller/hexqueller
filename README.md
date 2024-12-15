@@ -4,8 +4,8 @@
 3. [Shellix](https://github.com/hexqueller/Shellix): Telegram bot - interactive Docker shell executor.
 
 ## Vagrant scripts ⚙
-1. [Kubernetes](https://github.com/hexqueller/Vagrant-K8S).
-2. [ElasticStack](https://github.com/hexqueller/Vagrant-ELK).
+1. [Kubernetes](https://github.com/hexqueller/Vagrant-K8S)
+2. [ElasticStack](https://github.com/hexqueller/Vagrant-ELK)
 
 ## Skills 🛠
 

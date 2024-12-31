@@ -2,6 +2,7 @@
 1. [GrafanaGrab](https://github.com/hexqueller/GrafanaGrab): Excellent tool for creating backups of Grafana graphic panels.
 2. [Script Exporter](https://github.com/hexqueller/Script-Exporter): Prometheus exporter for scripts.
 3. [Shellix](https://github.com/hexqueller/Shellix): Telegram bot - interactive Docker shell executor.
+4. [Splitter](https://github.com/hexqueller/Splitter): Splits the file into parts.
 
 ## Vagrant scripts ⚙
 1. [Kubernetes](https://github.com/hexqueller/Vagrant-K8S)

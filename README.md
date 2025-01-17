@@ -9,7 +9,7 @@
 2. [ElasticStack](https://github.com/hexqueller/Vagrant-ELK)
 
 ## Skills 🛠
-
+Base
 |   |   |   |   |
 | --- | --- | --- | --- |
 | Basics 💎 | Git ✅ | Linux ✅ | Programming ✅ |
@@ -18,16 +18,7 @@
 | Iac 🚀 | Selectel ✅ | Terraform ✅ | Ansible ✅ |
 | Monitoring 🔍| Prometheus ✅ | Grafana ✅ | ELK ✅ |
 
-## New Goals: Big Data and Observability 🚀
-
-| Big Data Tools       | Logs and Traces   | Advanced Metrics         |
-|----------------------|-------------------|--------------------------|
-| Apache Kafka ❌       | OpenTelemetry ❌  | Metrics Aggregation ❌  |
-| Hadoop / Spark ❌     | Loki ❌          | Custom Grafana Dashboards ✅ |
-| Presto / Trino ❌     | Elastic APM ❌   | Custom Prometheus Rules ❌ |
-
-## New Goals: DevSecOps 🔐
-
+DevSecOps 🔐
 | Automation of Security      | Vulnerability Management          | DevSecOps Practices          |
 |-----------------------------|-----------------------------------|------------------------------|
 | SAST (e.g., SonarQube) ❌     | Dependency Scanning (Snyk) ❌      | Security in CI/CD Pipelines ❌ |
